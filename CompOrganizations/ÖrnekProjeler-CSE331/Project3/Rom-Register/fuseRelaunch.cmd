@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/cygwin/home/makiftasova/cse331 - computer organisation/Project3/Rom-Register/Mem32BitTest_isim_beh.exe" -prj "C:/cygwin/home/makiftasova/cse331 - computer organisation/Project3/Rom-Register/Mem32BitTest_beh.prj" "work.Mem32BitTest" "work.glbl" 

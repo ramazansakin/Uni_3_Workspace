@@ -1,0 +1,24 @@
+Student Name: Mehmet Akif TASOVA
+Student ID  : 111044016
+CSE331 - Fall 2013 - Project3 - Functional Report File
+
+Genreal Note:
+	Not all possible cases are tested on files RegisterBlock32Bit.v and 
+	Mem32Bit.v	but presented tests are works correctly.
+
+Mem32Bit:
+	sample mem file crated for 128 words and passed tests which are done in
+	file named Mem32BitTest.v. Also has support for 512MB memory in code which
+	is commented out. Uses mempory32.mem file as memry storage.
+
+RegisterBlock32Bit:
+	Register Block looks working properly by tests from RegisterBlock32BitTest.v
+	file. Has write data, read data and reset all registers functions.
+	making reset signal to 1 means fill all the registers with zero.
+	Makes every change on positive edge of CLK input. So there must be shift 
+	from 0 to 1 at CLK to apply changes to registers.
+
+Other Notes:
+	There are some muxes which designed to use in this project but later decided
+	to they are not necessary. So they are still in project folder but not using
+	in project.

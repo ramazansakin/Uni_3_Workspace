@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="ALU-32Bit" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/add - Add</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/m1 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/m2 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/m3 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/m4 - Mux4to1_32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/shift - GenericShift32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/shift - GenericShift32/mux1 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/shift - GenericShift32/mux2 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/shift - GenericShift32/rev - Reverser32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/shift - GenericShift32/rev_sra - Reverser32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/shift - GenericShift32/rev_srl - Reverser32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/shift - GenericShift32/sll - Shifter32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/shift - GenericShift32/sra - Shifter32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/shift - GenericShift32/srl - Shifter32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/sub - Substract</ClosedNode>
+         <ClosedNode>/ALU32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32test.v</ClosedNode>
+         <ClosedNode>/Add C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Add.v</ClosedNode>
+         <ClosedNode>/BarrelShifter8 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|BarrelShifter8.v</ClosedNode>
+         <ClosedNode>/BarrelShifter8 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter8.v</ClosedNode>
+         <ClosedNode>/CLAAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CLAAdder32.v/CLAAdder16 - CLAAdder16</ClosedNode>
+         <ClosedNode>/CLAAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CLAAdder32.v/CLAAdder16 - CLAAdder16/CLAAdder8 - CLAAdder8</ClosedNode>
+         <ClosedNode>/CarrLookAheadAdder4 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CarrLookAheadAdder4.v</ClosedNode>
+         <ClosedNode>/CarryLookAheadAdder16 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CarryLookAheadAdder16.v/cla1 - CarryLookAheadAdder8</ClosedNode>
+         <ClosedNode>/CarryLookAheadAdder16 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CarryLookAheadAdder16.v/cla2 - CarryLookAheadAdder8</ClosedNode>
+         <ClosedNode>/CarryLookAheadAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CarryLookAheadAdder32.v</ClosedNode>
+         <ClosedNode>/CarryLookAheadAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CarryLookAheadAdder32.v/cla1 - CarryLookAheadAdder16/cla2 - CarryLookAheadAdder8</ClosedNode>
+         <ClosedNode>/CarryLookAheadAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CarryLookAheadAdder32.v/cla2 - CarryLookAheadAdder16</ClosedNode>
+         <ClosedNode>/CarryLookAheadAdder8 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CarrylookAheadAdder8.v</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa1 - FullAdder16</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa1 - FullAdder16/fa1 - FullAdder8/FullAdder4 - FullAdder4</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa1 - FullAdder16/fa1 - FullAdder8/FullAdder4 - FullAdder4/fa1 - FullAdder2/fa1 - FullAdder</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa1 - FullAdder16/fa1 - FullAdder8/FullAdder4 - FullAdder4/fa1 - FullAdder2/fa2 - FullAdder</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa1 - FullAdder16/fa1 - FullAdder8/FullAdder4 - FullAdder4/fa2 - FullAdder2</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa1 - FullAdder16/fa2 - FullAdder8</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa2 - FullAdder16</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa2 - FullAdder16/fa1 - FullAdder8/FullAdder4 - FullAdder4</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa2 - FullAdder16/fa1 - FullAdder8/FullAdder4 - FullAdder4/fa1 - FullAdder2/fa2 - FullAdder</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa2 - FullAdder16/fa1 - FullAdder8/FullAdder4 - FullAdder4/fa2 - FullAdder2</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa2 - FullAdder16/fa2 - FullAdder8</ClosedNode>
+         <ClosedNode>/GenericShift32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|GenericShift32.v</ClosedNode>
+         <ClosedNode>/Mux16to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux16to1.v</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux32to1.v</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux32to1.v/m1 - Mux16to1</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux32to1.v/m1 - Mux16to1/m1 - Mux8to1/m1 - Mux4to1</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux32to1.v/m1 - Mux16to1/m1 - Mux8to1/m2 - Mux4to1</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux32to1.v/m1 - Mux16to1/m2 - Mux8to1</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux32to1.v/m2 - Mux16to1/m1 - Mux8to1</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux32to1.v/m2 - Mux16to1/m2 - Mux8to1/m1 - Mux4to1</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux32to1.v/m2 - Mux16to1/m2 - Mux8to1/m2 - Mux4to1</ClosedNode>
+         <ClosedNode>/Mux4to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux4to1.v</ClosedNode>
+         <ClosedNode>/Mux8to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux8to1.v</ClosedNode>
+         <ClosedNode>/Reverser16 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Reverser16.v</ClosedNode>
+         <ClosedNode>/Reverser32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Reverser32.v</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m1 - Mux32to1/m1 - Mux16to1/m1 - Mux8to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m1 - Mux32to1/m1 - Mux16to1/m2 - Mux8to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m1 - Mux32to1/m2 - Mux16to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m10 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m11 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m12 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m13 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m14 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m15 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m16 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m17 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m18 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m19 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m2 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m20 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m21 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m22 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m23 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m24 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m25 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m26 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m27 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m28 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m29 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m3 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m30 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m31 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m32 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m4 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m5 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m6 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m7 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m8 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/m9 - Mux32to1</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v/r1 - Reverser32</ClosedNode>
+         <ClosedNode>/Shifter8 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|BarrelShifter8.v</ClosedNode>
+         <ClosedNode>/Shifter8 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter8.v</ClosedNode>
+         <ClosedNode>/Substract C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Substract.v</ClosedNode>
+         <ClosedNode>/addertest C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|addertest.v</ClosedNode>
+         <ClosedNode>/cla32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|cla32test.v</ClosedNode>
+         <ClosedNode>/mux4to1test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|mux4to1test.v</ClosedNode>
+         <ClosedNode>/muxtest C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|muxtest.v</ClosedNode>
+         <ClosedNode>/reverser16test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|reverser16test.v</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v</ClosedNode>
+         <ClosedNode>/shiftertest C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shiftertest.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ALU32 (C:/Users/makiftasova/Xilinx-Projects/ALU-32Bit/ALU32.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000e6000000020000000000000000000000000200000064ffffffff000000810000000300000002000000e60000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>ALU32 (C:/Users/makiftasova/Xilinx-Projects/ALU-32Bit/ALU32.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000101000000010000000100000000000000000000000064ffffffff000000810000000000000001000001010000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000016c000000040101000100000000000000000000000064ffffffff0000008100000000000000040000006200000001000000000000004a00000001000000000000006600000001000000000000005a0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000064000000010001000100000000000000000000000064ffffffff000000810000000000000001000000640000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000101000000010000000100000000000000000000000064ffffffff000000810000000000000001000001010000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/add - Add</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/m1 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/m2 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/m3 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/m4 - Mux4to1_32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/shift - GenericShift32</ClosedNode>
+         <ClosedNode>/ALU32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32.v/sub - Substract</ClosedNode>
+         <ClosedNode>/ALU32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32test.v</ClosedNode>
+         <ClosedNode>/ALU32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32test.v/uut - ALU32/add - Add</ClosedNode>
+         <ClosedNode>/ALU32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32test.v/uut - ALU32/m1 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32test.v/uut - ALU32/m2 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32test.v/uut - ALU32/m3 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32test.v/uut - ALU32/m4 - Mux4to1_32</ClosedNode>
+         <ClosedNode>/ALU32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32test.v/uut - ALU32/shift - GenericShift32</ClosedNode>
+         <ClosedNode>/ALU32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|ALU32test.v/uut - ALU32/sub - Substract</ClosedNode>
+         <ClosedNode>/BarrelShifter8 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|BarrelShifter8.v</ClosedNode>
+         <ClosedNode>/BarrelShifter8 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter8.v</ClosedNode>
+         <ClosedNode>/CLAAdder16 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CLAAdder16.v</ClosedNode>
+         <ClosedNode>/CLAAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CLAAdder32.v</ClosedNode>
+         <ClosedNode>/CLAAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CLAAdder32.v/CLAAdder16 - CLAAdder16</ClosedNode>
+         <ClosedNode>/CLAAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CLAAdder32.v/CLAAdder16 - CLAAdder16/CLAAdder8 - CLAAdder8</ClosedNode>
+         <ClosedNode>/CLAAdder4test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CLAAdder4test.v</ClosedNode>
+         <ClosedNode>/CLAAdder8 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|CLAAdder8.v</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/FullAdder16 - FullAdder16</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/FullAdder16 - FullAdder16/FullAdder8 - FullAdder8</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/FullAdder16 - FullAdder16/FullAdder8 - FullAdder8/FullAdder4 - FullAdder4</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/FullAdder16 - FullAdder16/FullAdder8 - FullAdder8/FullAdder4 - FullAdder4/FullAdder2 - FullAdder2</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/FullAdder16 - FullAdder16/FullAdder8 - FullAdder8/FullAdder4 - FullAdder4/FullAdder2 - FullAdder2/FullAdder - FullAdder</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa1 - FullAdder16</ClosedNode>
+         <ClosedNode>/FullAdder32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|FullAdder32.v/fa2 - FullAdder16</ClosedNode>
+         <ClosedNode>/GenericShift32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|GenericShift32.v</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux32to1.v</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux32to1.v/m1 - Mux16to1/m1 - Mux8to1/m2 - Mux4to1</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux32to1.v/m1 - Mux16to1/m2 - Mux8to1</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux32to1.v/m2 - Mux16to1</ClosedNode>
+         <ClosedNode>/Mux4to1 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Mux4to1.v</ClosedNode>
+         <ClosedNode>/Reverser16 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Reverser16.v</ClosedNode>
+         <ClosedNode>/Reverser32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Reverser32.v</ClosedNode>
+         <ClosedNode>/Shifter32 C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|Shifter32.v</ClosedNode>
+         <ClosedNode>/addertest C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|addertest.v</ClosedNode>
+         <ClosedNode>/cla32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|cla32test.v</ClosedNode>
+         <ClosedNode>/cla4test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|cla4test.v</ClosedNode>
+         <ClosedNode>/cla8test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|cla8test.v</ClosedNode>
+         <ClosedNode>/mux4to1test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|mux4to1test.v</ClosedNode>
+         <ClosedNode>/muxtest C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|muxtest.v</ClosedNode>
+         <ClosedNode>/reverser16test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|reverser16test.v</ClosedNode>
+         <ClosedNode>/reverser32tet C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|reverser32tet.v</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m1 - Mux32to1/m1 - Mux16to1/m1 - Mux8to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m1 - Mux32to1/m1 - Mux16to1/m2 - Mux8to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m1 - Mux32to1/m2 - Mux16to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m10 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m11 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m12 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m13 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m14 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m15 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m16 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m17 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m18 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m19 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m2 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m20 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m21 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m22 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m23 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m24 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m25 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m26 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m27 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m28 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m29 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m3 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m30 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m31 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m32 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m4 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m5 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m6 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m7 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m8 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/m9 - Mux32to1</ClosedNode>
+         <ClosedNode>/shifter32test C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shifter32test.v/uut - Shifter32/r1 - Reverser32</ClosedNode>
+         <ClosedNode>/shiftertest C:|Users|makiftasova|Xilinx-Projects|ALU-32Bit|shiftertest.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ALU32test (C:/Users/makiftasova/Xilinx-Projects/ALU-32Bit/ALU32test.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000e8000000020000000000000000000000000200000064ffffffff000000810000000300000002000000e80000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>ALU32test (C:/Users/makiftasova/Xilinx-Projects/ALU-32Bit/ALU32test.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Compile HDL Simulation Libraries</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000101000000010000000100000000000000000000000064ffffffff000000810000000000000001000001010000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Compile HDL Simulation Libraries</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000101000000010000000100000000000000000000000064ffffffff000000810000000000000001000001010000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+</Project>

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/makiftasova/Xilinx-Projects/ALU-32Bit/GenericShift32.v -lang verilog -prj ALU-32Bit -o GenericShift32.spl -module GenericShift32 -template C:/Xilinx/14.6/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 GenericShift32.spl C:/Users/makiftasova/Xilinx-Projects/ALU-32Bit/GenericShift32.sym 

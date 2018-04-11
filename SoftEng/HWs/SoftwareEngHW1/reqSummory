@@ -1,0 +1,154 @@
+
+
+Gereksinimlerin söz diziminde u yapılar olmak zorundadır[2].
+• Kullanıcı ve aktör: Sistemden fayda sa layacak ki i veya nesne
+• Eylem: –cak” gibi gelecek zaman kipinde olmalı ya da geni zaman kipinde olmalıdır.
+• Nesne: Ortaya çıkacak sonuç ürün, bilgi, fayda
+• Niteleyici: Ölçümlenebilir, belirleyici de er aralı ı
+Örnek bir gereksinim:”Ça rı merkezi operatörü, arananın detaylı bilgilerini iki saniye içinde
+sorgulayıp sonucunu görebilecektir” (Gelecek zaman )
+Di er bir örnek gereksinim ise: “Pilot, uça ın kalkı açısını tek eliyle kontrol eder” (Geni zaman )
+
+    Doğruluk
+Gereksinimler, sunulacak olan fonksiyonu do ru olarak tanımlamalıdır[2].
+
+
+Zorunluluk
+    Gereksinimler, geli tirilecek sistem için mutlaka zorunlu olmalıdır[1]. Gereksinim olarak yazılan
+ifadenin dokümandan çıkarılması veya hiç eklenmemesi halinde de i en bir ey olmuyorsa bu ifade
+gereksinim olarak de erlendirilemez.
+
+
+    Do rulanabilirlik, Ölçülebilirlik
+Çünkü do rulanamayan gereksinim aslında gereksinim de ildir. yi bir gereksinim test
+edilirken belli kıstasları destekleyebilmelidir. Ki ilere göre de i en kabul kriterleri belirlenirse test
+yapanın o andaki ruh haline ba ımlı olarak ya tüm testlerden ba arıyla geçer ya da ba arısız sayılır.
+
+
+    Ula ılabilirlik, Eri ilebilirlik
+Her gereksinimin ek kaynak ve maliyet
+olarak dü ünülmesi ve proje planındaki sınırlara uyulması gereklidir. Teknik olurlu u sa lanan ama
+kaynak açısından kabul edilemeyen gereksinimlerin zorunlulu u ortaya çıkarsa, mü terinin bilgisi
+dahilinde proje planının revize edilmesi ve zaman planının yeniden yapılması gereklidir.
+
+
+
+    Açıklık, Sadelik
+Basit ve baglantı ekleri içermeyen, mu lak olmayan, ihtimallere yer vermeyen, tartı ılmayacak kadar açık ve
+net ifadeler ile iyi bir gereksinim yazılır.
+
+
+
+
+
+
+
+
+BAZI ONEMLI KURALLAR
+*Belirsizlik ve birden fazla anlam ta ıyan ifadeler yer almamalıdır
+
+*Gereksinimler ba laçlar ile birbirine ba lanmamalıdır  "ve" "ve ya"
+
+*Gereksinimleri geni leten, farklı yönlere çeken, da ıtan kelimelerden sakınmak gerekir
+
+*Gereksiz yere uzun cümleler kurarak gereksinimler yazılmamalı
+
+*Gereksiz yere uzun cümleler kurarak gereksinimler yazılmamalı
+    Gereksinimler ile planlar farklı algılanmalı ve karı tırılmamalıdır[2]. Planlar, i in temelini
+    olustururlar, gereksinimlere ba ımlı de ildirler, artlara göre revize edilebilirler ama gereksinimler   
+    kararlı ve stabilize olmalıdır. Planların gereksinim olarak alınması halinde sürekli revize etme
+    tehlikesini de göze almak gerekir.
+
+*Spekülasyon yapılmamalıdır
+    Gereksinimler, kullanıcılar ile geli tiriciler arasında yapılmı bir kontrattır[2]. Burada net olmayan
+    üzerinde spekülasyon yapılabilecek kelimelerden kaçınılmalıdır. Bu kelimeler “ço unlukla”,
+    “bazen”, “ara sıra”, “genellikle”, “sık sık” gibi kelimelerdir. Her eyi net olarak ortaya koymak daha
+    sonra spekülasyon yapılmasının önüne geçecektir.
+    
+*Gereksiz kuruntulardan kaçınılmalıdır ve hatalar kullanıcı ile paylasılmalıdır
+
+*htimal içeren ifadelerden kaçınılmalıdır
+
+
+
+
+
+
+
+
+4. yi Gereksinim Yazma Klavuzu
+    Iyi gereksinim yazmak için kesin bir formül olmamasına ra men bazı ipuçları verilebilir[3].
+• Gereksinimleri kısa tutunuz. Paragraf boyutunda gereksinim yazmayınız.
+
+• Dilin gramer, noktalama ve heceleme kurallarına uygun ifadeler yazınız.
+
+• Terimler kullanmamaya özen gösterilmeli. Kullanılacak ise bunlar veri sözlü ünde
+    açıklanmalıdır.
+
+• Gereksinimlerin yeterince açıklandı ını anlamak için bunları hem kullanıcı hem de geli tirici
+    gözüyle tekrar okuyunuz.
+
+• Anla ılmayan gereksinimler için geli tiricilerin size sorular sormak zorunda kalaca ını ve buna
+    ne kadar dayanabilece inizi dü ününüz. Bu durumu her gereksinim için hayal ediniz.
+
+• Yazılan gereksinimler ile tasarım ve geli tirme yapılacak kadar açık olması gerekir. Tasarım
+    veya geli time a amasında fazladan açıklama ve açı a kavu turma çabası gösterilmeyecek
+    ekilde yazılmalıdır.
+
+• Kullanıcılardan hikaye biçiminde alınan gereksinimleri, parça parça anlamlı gereksinimler
+    halinde yazmak için en iyi yol yazılan her bir gereksinimin tek ba ına test edilebilir olmasını
+    sa lamaktır.
+
+• Gereksinimleri “ve”, “veya”, “ki” ba laçlarıyla birbirine ba lamayınız.
+
+• Gereksinimler bütünlü ü bozmamalı ve tutarlı olmalıdır. Kapsamın dı ına çıkılmamalıdır
+
+• Mükerrer gereksinimler olmamalıdır. Mükerrer gereksinim olması halinde de i ikliklerin
+    tümünde yapılması gerekecektir.    
+
+
+
+
+
+
+
+
+
+
+5. yi Gereksinimler için Kontrol Listesi
+Gereksinimleri yazdıktan sonra kontrol edebilmek için hazır olan kontrol listelerinden
+yararlanılabilir. Örnek bir liste a a ıda açıklanmı tır[4]. Buradaki sorular arttırılabilir ama her bir
+gereksinim için tüm bu soruların cevaplarını almak gereklidir.
+• Zorunluluk: Bu gereksinim olmadan yazılımdan beklentiler kar ılanabiliyor mu?
+• Do rulanabilirlik: Bu gereksinimin do rulama kriterleri nelerdir? Bu kriterler gereksinimde
+açık olarak belirtilmi midir? Do rulama kriterleri sistemin sınırları içinde mi?
+• Ula ılabilirlik, eri ilebilirlik: Bu gereksinim sistem kaynakları ve kısıtları içinde
+gerçekle tirilebilir mi? Gereksinimden beklentileri sa lamak imkansız mı?
+• Açıklık, belirlilik: Bu gereksinim herkes tarafından aynı ekilde yorumlanabilir mi? Farklı
+anlamlar çıkartabilecek kelimeler yer alıyor mu? Gereksinim içinde terimler geçiyor mu?
+Cevap evet ise bunlar veri sözlü ünde detaylıca tanımlanmı mı?
+• Tamlık, eksiksizlik: Gereksinimde kar ıla ılabilecek tüm ko ullar belirtilmi mi? Mü teriden
+alınan tüm gereksinimler dokümanda yer alıyor mu?
+• Tutarlılık: Gereksinim önceki gereksinimlerle çeli iyor mu? Gereksinim dokümanın
+bütünlü ünü bozuyor mu?
+•
+•
+•
+•
+•
+•
+Izlenebilirlik: Gereksinimin kayna ı belli mi? Gereksinimler arasında ili ki kurulmu mu?
+Kurulmu ili kilerde iç içe geçme durumu var mı? Döngüsel izlenirlik olu mu?
+Yer almak: Gereksinim sistem tasarımında yer alıyor mu? Tasarımsal olarak
+gerçekle tirilmi tir? Tasarımsal kar ılı ı var mıdır?
+
+Basitlik: Gereksinim sade ve açık mıdır?
+Tasarımdan ba ımsızlık: Gereksinim sadece ne yapılaca ına cevap veriyor mu? Nasıl
+yapılaca ına ait ifadeler var mı? Gereksinim içinde tasarım ö eleri yer alıyor mu?
+
+Standart Yapılar: Gereksinimler gelecek zaman kipinde mi yazılmı ? Dil kurallarına uyulmu
+mu? Gereksinimde etkilenen aktör belirtilmi midir?
+
+Tekil tanımlayıcı: Her gereksinim numaralandırılmı mıdır? Bu numaralar tekil olarak mı
+verilmi ? Gereksinimin de i iklik tarihçesi izlenebiliyor mu? Gerekli versiyon numaraları takip
+edilmi mi?

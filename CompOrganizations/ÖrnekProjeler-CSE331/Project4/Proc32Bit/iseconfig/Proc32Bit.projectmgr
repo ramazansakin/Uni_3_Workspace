@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Proc32Bit" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode></ClosedNode>
+         <ClosedNode>/ALU32 C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|ALU32.v</ClosedNode>
+         <ClosedNode>/Core32Bit C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|Core32Bit.v</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|Mux32to1.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Core32Bit (C:/cygwin/home/makiftasova/cse331 - computer organisation/Project4/Proc32Bit/Core32Bit.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000008b000000020000000000000000000000000200000064ffffffff0000008100000003000000020000008b0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Core32Bit (C:/cygwin/home/makiftasova/cse331 - computer organisation/Project4/Proc32Bit/Core32Bit.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000027d000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000001b10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Add.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000000f8000000010001000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000e7000000010000000100000000000000000000000064ffffffff000000810000000000000001000000e70000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU32 C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|ALU32.v</ClosedNode>
+         <ClosedNode>/ALU32test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|test.v/uut - ALU32/add - Add/cla - CarryLookAheadAdder32/cla1 - CarryLookAheadAdder16/cla2 - CarryLookAheadAdder8</ClosedNode>
+         <ClosedNode>/ALU32test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|test.v/uut - ALU32/add - Add/cla - CarryLookAheadAdder32/cla2 - CarryLookAheadAdder16</ClosedNode>
+         <ClosedNode>/ALU32test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|test.v/uut - ALU32/m1 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|test.v/uut - ALU32/m2 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|test.v/uut - ALU32/m3 - Mux2to1_32</ClosedNode>
+         <ClosedNode>/ALU32test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|test.v/uut - ALU32/m4 - Mux4to1_32</ClosedNode>
+         <ClosedNode>/ALU32test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|test.v/uut - ALU32/shift - GenericShift32</ClosedNode>
+         <ClosedNode>/ALU32test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|test.v/uut - ALU32/sub - Substract</ClosedNode>
+         <ClosedNode>/Core32Bit C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|Core32Bit.v</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|Mux32to1.v</ClosedNode>
+         <ClosedNode>/Register32Test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|regtest.v</ClosedNode>
+         <ClosedNode>/Reverser32 C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|Reverser32.v</ClosedNode>
+         <ClosedNode>/Shifter32 C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|Shifter32.v</ClosedNode>
+         <ClosedNode>/cutest C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|cutest.v</ClosedNode>
+         <ClosedNode>/regtest C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|regtest.v</ClosedNode>
+         <ClosedNode>/setest C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|setest.v</ClosedNode>
+         <ClosedNode>/test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project4|Proc32Bit|test.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>setest (C:/cygwin/home/makiftasova/cse331 - computer organisation/Project4/Proc32Bit/setest.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000c4000000020000000000000000000000000200000064ffffffff000000810000000300000002000000c40000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>setest (C:/cygwin/home/makiftasova/cse331 - computer organisation/Project4/Proc32Bit/setest.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+</Project>

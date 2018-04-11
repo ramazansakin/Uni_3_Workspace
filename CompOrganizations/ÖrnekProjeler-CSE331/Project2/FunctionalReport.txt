@@ -1,0 +1,30 @@
+Genreal Note:
+	Not all possible cases are tested on ALU32test.v file
+	but presented tests are works correctly.
+
+shift right logical 
+	works accurately by given tests
+
+shift right aricmethic
+	works accurately by given tests
+
+shift loeft logic
+	works accurately by given tests
+
+and
+	works accurately by given tests
+
+or
+	works accurately by given tests
+
+nor
+	works accurately by given tests
+
+xor
+	works accurately by given tests
+
+add
+	works accurately by given tests
+
+substract
+	works accurately by given tests

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Rom-Register" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Mem32Bit |home|makiftasova|XilinxProjects|Rom-Register|Mem32Bit.v</ClosedNode>
+         <ClosedNode>/Mux32to1 C:|cygwin|home|makiftasova|cse331 - computer organisation|Project3|Rom-Register|Mux32to1.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Rom-Register</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000012a000000020000000000000000000000000200000064ffffffff0000008100000003000000020000012a0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Rom-Register</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000028e000000040101000100000000000000000000000064ffffffff0000008100000000000000040000004f00000001000000000000002b00000001000000000000008800000001000000000000018c0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Mem32Bit.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>View Technology Schematic</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000e7000000010000000100000000000000000000000064ffffffff000000810000000000000001000000e70000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>View Technology Schematic</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001460000011d01000000060100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Mem32BitTest C:|cygwin|home|makiftasova|cse331 - computer organisation|Project3|Rom-Register|Mem32BitTest.v</ClosedNode>
+         <ClosedNode>/Mem32BitTest |home|makiftasova|XilinxProjects|Rom-Register|Mem32BitTest.v</ClosedNode>
+         <ClosedNode>/Mem32BitTest |home|makiftasova|cse331-computer-organisation|Project3|Rom-Register|Mem32BitTest.v</ClosedNode>
+         <ClosedNode>/Mux16to1Test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project3|Rom-Register|Mux16to1Test.v</ClosedNode>
+         <ClosedNode>/Mux16to1Test |home|makiftasova|cse331-computer-organisation|Project3|Rom-Register|Mux16to1Test.v</ClosedNode>
+         <ClosedNode>/Mux16to1Test |home|makiftasova|cse331-computer-organisation|Project3|Rom-Register|Mux16to1Test.v/uut - Mux16to1/m1 - Mux8to1</ClosedNode>
+         <ClosedNode>/Mux16to1Test |home|makiftasova|cse331-computer-organisation|Project3|Rom-Register|Mux16to1Test.v/uut - Mux16to1/m2 - Mux8to1</ClosedNode>
+         <ClosedNode>/Mux2to1Test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project3|Rom-Register|Mux2to1Test.v</ClosedNode>
+         <ClosedNode>/Mux2to1Test |home|makiftasova|cse331-computer-organisation|Project3|Rom-Register|Mux2to1Test.v</ClosedNode>
+         <ClosedNode>/Mux32to1Test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project3|Rom-Register|Mux32to1Test.v</ClosedNode>
+         <ClosedNode>/Mux32to1Test |home|makiftasova|cse331-computer-organisation|Project3|Rom-Register|Mux32to1Test.v</ClosedNode>
+         <ClosedNode>/Mux4to1Test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project3|Rom-Register|Mux4to1Test.v</ClosedNode>
+         <ClosedNode>/Mux4to1Test |home|makiftasova|cse331-computer-organisation|Project3|Rom-Register|Mux4to1Test.v</ClosedNode>
+         <ClosedNode>/Mux8to1Test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project3|Rom-Register|Mux8to1Test.v</ClosedNode>
+         <ClosedNode>/Mux8to1Test |home|makiftasova|cse331-computer-organisation|Project3|Rom-Register|Mux8to1Test.v</ClosedNode>
+         <ClosedNode>/Register32Test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project3|Rom-Register|Register32Test.v</ClosedNode>
+         <ClosedNode>/RegisterBlock32BitTest C:|cygwin|home|makiftasova|cse331 - computer organisation|Project3|Rom-Register|RegisterBlock32BitTest.v</ClosedNode>
+         <ClosedNode>/RegisterBlock32Test C:|cygwin|home|makiftasova|cse331 - computer organisation|Project3|Rom-Register|RegisterBlock32Test.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>xc7a100t-3csg324</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000142000000020000000000000000000000000200000064ffffffff000000810000000300000002000001420000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>xc7a100t-3csg324</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+</Project>

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/makiftasova/Xilinx-Projects/ALU-32Bit/Xor32.v -lang verilog -prj ALU-32Bit -o Xor32.spl -module Xor32 -template C:/Xilinx/14.6/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Xor32.spl C:/Users/makiftasova/Xilinx-Projects/ALU-32Bit/Xor32.sym 
